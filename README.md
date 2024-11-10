@@ -1,17 +1,8 @@
 # coinlytic
+hackED BETA 2024
 
-A new Flutter project.
-
+Download the Budget Tracker Website to get access to website
+Download all the other files to get access to mobile app, you will need to have access to xcode, flutter, and VScode
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # coinlytic_hackED_Beta
